@@ -1,3 +1,4 @@
 untuk coba push banyak perubahan dibanyak file.
 
-baris ke-3 edit 20 Agustus 2016. -via lokal komputer
+baris ketiga edit 20 Agustus 2016. -via web github
+baris ke-4 edit 20 Agustus 2016. -via lokal komputer
